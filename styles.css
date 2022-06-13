@@ -79,6 +79,7 @@ input[type="submit"] {
   margin: 1em auto;
   display: block;
   border: 1. 5px solid #ffffff;
+  margin-top: 2px
 }
 
 input[type="submit"]:hover {
