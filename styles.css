@@ -1,7 +1,6 @@
 form {
   margin: 0 auto;
-  max-width: 450px;
-  min-width: 350px;
+  width: 70%;
 }
 
 h1 {
