@@ -30,7 +30,7 @@ body {
  } 
 
  .bgimage {
-  background: linear-gradient(to top, #3204fdba, #3204fdba), url(https://thinkimmigration.org/wp-content/uploads/2020/05/shutterstock_1694955259-1000x640.jpg) no-repeat center fixed;
+  background: linear-gradient(to top, #3204fdba, #3204fdba), url(https://thinkimmigration.org/wp-content/uploads/2020/05/shutterstock_1694955259-1000x640.jpg) no-repeat fixed;
   height: 100vh;
   width: 100%;
 }
