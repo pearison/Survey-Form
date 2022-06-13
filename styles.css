@@ -19,15 +19,18 @@ p {
 }
 
 body {
-  width: 90%;
+  width: 100%;
   height: 72vh;
   color: rgb(255, 255, 255);
   font-family: bahnschrift;
   font-size: 15px;
   background-color: #1b1b32;
   margin: 0;
+ } 
+
+ .bgimage {
   background: linear-gradient(to top, #3204fdba, #3204fdba), url(https://thinkimmigration.org/wp-content/uploads/2020/05/shutterstock_1694955259-1000x640.jpg) no-repeat center fixed;
-  
+  height: 100vh;
 }
 
 label {
