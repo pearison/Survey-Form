@@ -4,6 +4,8 @@ html {
 
 form {
   margin: auto;
+  max-width: 250px;
+  min-width: 200px;
 }
 
 @media (max-width: 480px) and (min-width: 300px) {
