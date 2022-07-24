@@ -3,12 +3,11 @@ html {
 }
 
 form {
-  margin: 0 auto;
-  height: 100%;
+  margin: auto;
 }
 
 @media (max-width: 480px) and (min-width: 300px) {
-  #main {
+  b {
     width: 280px;
   }
 }
