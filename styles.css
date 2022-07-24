@@ -5,6 +5,12 @@ form {
   max-width: 600px;
 }
 
+@media (max-width: 480px) and (min-width: 300px) {
+  #main {
+    width: 280px;
+  }
+}
+
 h1 {
   color: #ffffff;
   font-size: 25px;
